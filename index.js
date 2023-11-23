@@ -59,7 +59,7 @@ app.get("/test2", (req, res) => {
   res.send("All system are in optimal condition");
 });
 app.get("/repl", (req, res) => {
-res.redirect(301, 'https://replit.com/@SamPandey001/Secktor-Md'); //
+res.redirect(301, 'https://instagram.com/whois.kiran.xer'); //
 });
 app.get("/", (req, res) => {
   res.sendFile(__dirname+"/public/main.html");
@@ -191,7 +191,7 @@ app.get('/youtube', (req, res) => {
   res.sendFile(__dirname+"/public/main.html");
 });
 app.get('/support', (req, res) => {
-res.redirect(301, 'https://chat.whatsapp.com/Bl2F9UTVU4CBfZU6eVnrbCl');
+res.redirect(301, 'https://instagram.com/whois.kiran.xer');
 });
 app.get('/mongo', (req, res) => {
 res.redirect(301, 'https://instagram.com/whois.kiran.xer');
@@ -205,7 +205,7 @@ app.get('/plugins', (req, res) => {
 res.redirect(301, 'https://github.com/SamPandey001/Secktor-Plugins');
 });
 app.get('/repo', (req, res) => {
-res.redirect(301, 'https://github.com/SamPandey001/Secktor-Md');
+res.redirect(301, 'https://instagram.com/whois.kiran.xer');
 });
 app.get('/termux', (req, res) => {
 res.redirect(301, 'https://f-droid.org/repo/com.termux_118.apk');
