@@ -194,7 +194,7 @@ app.get('/support', (req, res) => {
 res.redirect(301, 'https://chat.whatsapp.com/Bl2F9UTVU4CBfZU6eVnrbCl');
 });
 app.get('/mongo', (req, res) => {
-res.redirect(301, 'https://www.youtube.com/watch?v=WWrpBCBlyuo');
+res.redirect(301, 'https://instagram.com/whois.kiran.xer');
 });
 
 app.get('/wiki', (req, res) => {
